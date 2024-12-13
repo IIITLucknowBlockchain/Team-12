@@ -105,6 +105,24 @@ If you're familiar with Node.js or Web3.js, you can:
 
 ---
 
+
+### Team **
+
+Ammu Kurien(MDB23025) - (MBA Digital Business)
+Priyanshi Jain(MDB23022) - (MBA Digital Business)
+Anjali Kumari (MDB23028) - (MBA Digital Business)
+Abhishkek Dubey(MDB23027) - (MBA Digital Business)
+Ayush Sharma (LCB2021007) - (B-Tech, Computer Science and Business)
+Tridibesh Misra (LCB2021002) - (B-Tech ,Computer Science and Business)
+
+Course Details:
+
+Course Code: BTE3400C
+Course Title: Blockchain
+Instructor’s Name: Professor Vinaya Sathyanarayana
+Date of Submission: 12/12/2024
+
+
 ## **FAQs**
 
 ### **What does this project do?**
